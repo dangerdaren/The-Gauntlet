@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5e5c5490192b84094ac7cb40600565bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - towerPrefab: {fileID: 3219458064393657486, guid: 8a965e088bae16643aab3d07ccfd5e2e, type: 3}
+  - unavailableTowerMat: {fileID: 2100000, guid: 278d1a576c73944d2b1e3d4fc4b52d05, type: 2}
+  - readyTowerMat: {fileID: 2100000, guid: 39e6d8be9e60b4e3a92928aad49da0ff, type: 2}
+  - towerOption: {fileID: 4846941180151707105, guid: a15b9151f9372432197737944cfbb187, type: 3}
+  executionOrder: -10
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
