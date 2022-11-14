@@ -3,9 +3,9 @@
 </p>
 
 # The Gauntlet
-**To learn more about this game, visit [The Gauntlet](https://daren-stottrup.notion.site/The-Gauntlet-d60031524148480a895a7bcf8693a9ba) on my [portfolio](https://daren-stottrup.notion.site/Game-Portfolio-3bc5aac8cfcb4d32af26f20301371155).**
+To learn more about this game, visit [The Gauntlet](https://daren-stottrup.notion.site/The-Gauntlet-d60031524148480a895a7bcf8693a9ba) on my [portfolio](https://daren-stottrup.notion.site/Game-Portfolio-3bc5aac8cfcb4d32af26f20301371155).
 <br>
-**To play this game, check out the [WebGL Version](https://play.unity.com/mg/other/webgl-builds-42193).**
+To play this game, check out the [WebGL Version](https://play.unity.com/mg/other/webgl-builds-42193).
 
 ## Coursework Project
 This project was part of a course I took, and looking back, it's jarring to see the lack of "private" and "public" keywords! Nevertheless, as with most of the coursework projects, there were additions I made to the game--features that made the project go from simple homework, to games that I felt comfortable sending to friends to play as evidence of my education.
